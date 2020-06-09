@@ -1,6 +1,6 @@
 {
     "name": "zmbakh/laravel-fcm",
-    "description": "Laravel / Lumen package for Firebase Cloud Messaging ",
+    "description": "Laravel / Lumen package for Firebase Cloud Messaging. Supports Laravel v7.",
     "keywords": ["laravel", "lumen", "firebase", "notification", "push", "fcm", "firebase cloud messaging"],
     "type": "library",
     "license": "MIT",
